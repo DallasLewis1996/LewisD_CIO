@@ -1,0 +1,5 @@
+C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\bin\Debug\CSC160_ConsoleMenu.dll
+C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\bin\Debug\CSC160_ConsoleMenu.pdb
+C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\obj\Debug\CSC160_ConsoleMenu.csprojResolveAssemblyReference.cache
+C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\obj\Debug\CSC160_ConsoleMenu.dll
+C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\obj\Debug\CSC160_ConsoleMenu.pdb

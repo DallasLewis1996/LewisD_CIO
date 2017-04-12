@@ -1,0 +1,5 @@
+c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\bin\Debug\LibDemo.dll
+c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\bin\Debug\LibDemo.pdb
+c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.csprojResolveAssemblyReference.cache
+c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.dll
+c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.pdb
