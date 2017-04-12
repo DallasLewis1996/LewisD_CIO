@@ -11,7 +11,8 @@ namespace LibTester
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(CIO.PromptForByte("Please give a correct byte.", 1, 100));
+            Console.ReadLine();
         }
     }
 }
