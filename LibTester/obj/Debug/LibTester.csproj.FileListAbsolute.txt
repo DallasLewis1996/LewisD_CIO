@@ -6,3 +6,11 @@ c:\Users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibTester\ob
 c:\Users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibTester\obj\Debug\LibTester.pdb
 C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\LibTester\bin\Debug\LewisD_CIO.dll
 C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\LibTester\bin\Debug\LewisD_CIO.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\bin\Debug\LibTester.exe.config
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\bin\Debug\LibTester.exe
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\bin\Debug\LibTester.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\bin\Debug\LewisD_CIO.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\bin\Debug\LewisD_CIO.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\obj\Debug\LibTester.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\obj\Debug\LibTester.exe
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibTester\obj\Debug\LibTester.pdb

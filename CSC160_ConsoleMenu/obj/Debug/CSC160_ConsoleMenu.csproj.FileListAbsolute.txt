@@ -3,3 +3,8 @@ C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_Conso
 C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\bin\Debug\LewisD_CIO.pdb
 C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\obj\Debug\LewisD_CIO.dll
 C:\Users\Dallas Lewis\Documents\Visual Studio 2017\Projects\LibDemo\CSC160_ConsoleMenu\obj\Debug\LewisD_CIO.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\CSC160_ConsoleMenu\bin\Debug\LewisD_CIO.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\CSC160_ConsoleMenu\bin\Debug\LewisD_CIO.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\CSC160_ConsoleMenu\obj\Debug\CSC160_ConsoleMenu.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\CSC160_ConsoleMenu\obj\Debug\LewisD_CIO.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\CSC160_ConsoleMenu\obj\Debug\LewisD_CIO.pdb

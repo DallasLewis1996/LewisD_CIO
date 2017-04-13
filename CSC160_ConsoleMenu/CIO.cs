@@ -7,7 +7,47 @@ namespace CSC160_ConsoleMenu
     {
         public static int PromptForMenuSelection(IEnumerable<string> options, bool withQuit)
         {
-            throw new NotImplementedException();
+            bool tryAgain = false;
+            int choice = 0;
+            int i = 1;
+            do {
+                foreach (string choices in options)
+                {
+                    Console.WriteLine(i + ". " + choices);
+                    i++;
+                }
+                Console.WriteLine();
+
+                if (withQuit)
+                {
+                    Console.WriteLine("0. Quit");
+                }
+                string input = Console.ReadLine();
+
+                try
+                {
+                    choice = int.Parse(input);
+                    
+                    if((choice == 0 && !withQuit) || (choice < 0 || choice > i - 1))
+                    {
+                        tryAgain = true;
+                        Console.WriteLine("That input was invalid. Please pick an option between 1 and " + (i-1) + ".");
+                        i = 1;
+                    }
+                    else
+                    {
+                        tryAgain = false;
+                    }
+                    
+                } catch (FormatException e)
+                {
+                    Console.WriteLine("That input was invalid. Please pick an option between 1 and " + (i-1) + ".");
+                    tryAgain = true;
+                    i = 1;
+                }
+            } while (tryAgain);
+
+            return choice;
         }
 
         public static bool PromptForBool(string message, string trueString, string falseString)
@@ -252,12 +292,55 @@ namespace CSC160_ConsoleMenu
 
         public static string PromptForInput(string message, bool allowEmpty)
         {
-            throw new NotImplementedException();
+            bool tryAgain = false;
+            string input = "";
+            do
+            {
+                Console.WriteLine(message);
+                input = Console.ReadLine();
+                if (input == "" && !allowEmpty)
+                {
+                    Console.WriteLine("Empty strings are not allowed. Please try again.");
+                    tryAgain = true;
+                }
+                else
+                {
+                    tryAgain = false;
+                }
+            } while (tryAgain);
+            return input;
         }
 
         public static char PromptForChar(string message, char min, char max)
         {
-            throw new NotImplementedException();
+            bool tryAgain = false;
+            char cInput = '0';
+            do
+            {
+                Console.WriteLine(message);
+                string input = Console.ReadLine();
+
+                try
+                {
+                    cInput = char.Parse(input);
+                    if(cInput > max || cInput < min)
+                    {
+                        Console.WriteLine("Your char is outside of the range. Please try a char between " + min + " and " + max + ".");
+                        tryAgain = true;
+                    }
+                    else
+                    {
+                        tryAgain = false;
+                    }
+
+                }
+                catch(FormatException e)
+                {
+                    Console.WriteLine("I'm sorry. That is not a valid response. Please try again.");
+                    tryAgain = true;
+                }
+            } while (tryAgain);
+            return cInput;    
         }
     }
 }

@@ -3,3 +3,8 @@ c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\bin\
 c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.csprojResolveAssemblyReference.cache
 c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.dll
 c:\users\dallas lewis\documents\visual studio 2017\Projects\LibDemo\LibDemo\obj\Debug\LibDemo.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibDemo\bin\Debug\LibDemo.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibDemo\bin\Debug\LibDemo.pdb
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibDemo\obj\Debug\LibDemo.csprojResolveAssemblyReference.cache
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibDemo\obj\Debug\LibDemo.dll
+C:\Users\Dallas\Documents\Visual Studio 2017\Projects\LewisD_CIO\LibDemo\obj\Debug\LibDemo.pdb
